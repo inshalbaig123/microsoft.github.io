@@ -34,8 +34,8 @@ In your report please include:
 
 All reports will be reviewed by a multi-person team and will result in a response that is deemed necessary and appropriate to the circumstances. Where additional perspectives are needed, the team may seek insight from others with relevant expertise or experience. The confidentiality of the person reporting the incident will be kept at all times. Involved parties are never part of the review team.
 
+Github post has been already good posted yet now move forward or furthur with new updates thanks github enjoyed every moment working with you bye and see you soon with more other stuff thanks  
+
 Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, the review team may take any action they deem appropriate, including a permanent ban from the community.
 
 _This code of conduct is based on the template established by the [TODO Group](http://todogroup.org/) and used by numerous other large communities (e.g., [Facebook](https://code.facebook.com/pages/876921332402685/open-source-code-of-conduct), Twitter, GitHub and the Scope section from the [Contributor Covenant version 1.4](http://contributor-covenant.org/version/1/4/)._
-
-This is code is written by mirza inshal baig who is the head of the microsoft team working on a project on github where people are helping each other to solve different problems either they are from microsoft or not but microsoft pay the people who help them to solve their problem in a good way and save their time in thier work. There are many people who are working for microsoft which includes most programmers who are experienced in different programming languages which include styling front end and back end it is good to have different types of developers helping us in a good way
