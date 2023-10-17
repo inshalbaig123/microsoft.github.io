@@ -15,9 +15,11 @@ Our open source communities strive to:
     * Insults, especially those using discriminatory terms or slurs.
     * Behavior that could be perceived as sexual attention.
     * Advocating for or encouraging any of the above behaviors.
-* **Understand disagreements:** Disagreements, both social and technical, are useful learning opportunities. Seek to understand the other viewpoints and resolve differences constructively.
-* This code is not exhaustive or complete. It serves to capture our common understanding of a productive, collaborative environment. We expect the code to be followed in spirit as much as in the letter.
 
+* **Understand disagreements:** Disagreements, both social and technical, are useful learning opportunities. Seek to understand the other viewpoints and
+resolve differences constructively.
+* This code is not exhaustive or complete. It serves to capture our common understanding of a productive, collaborative environment. We expect the code to be
+followed in spirit as much as in the letter.
 
 ## Scope
 This code of conduct applies to all repos and communities for Microsoft open source projects regardless of whether or not the repo explicitly calls out
@@ -36,16 +38,22 @@ interaction. In the event that an issue cannot be resolved locally, please feel 
 (https://opensource.microsoft.com/codeofconduct/faq/).
 
 In your report please include:
-
 * Your contact information.
 * Names (real, usernames or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.
-* Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public chat log), please include a link or attachment.
+* Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly availble record (e.g. a mailing list archive or a public
+chat log), please include a link or attachment.
 * Any additional information that may be helpful.
 
-All reports will be reviewed by a multi-person team and will result in a response that is deemed necessary and appropriate to the circumstances. Where additional perspectives are needed, the team may seek insight from others with relevant expertise or experience. The confidentiality of the person reporting the incident will be kept at all times. Involved parties are never part of the review team.
+All reports will be reviewed by a multi-person team and will result ina response that is deemed necessary and appropriate to the circumstances. where
+additional perspectives are needed, the team may seek insight from others with relevant expertise or experience. The confidentially of the person reporting
+the incident will be kep at all times. Involved parties are never part of the review team.
 
-Github post has been already good posted yet now move forward or furthur with new updates thanks github enjoyed every moment working with you bye and see you soon with more other stuff thanks  
+Github post has been already good posted yet now move forward or furthur with new updates thanks github enjoyed moment working with you bye and see you
+soon with more other stuff thanks.
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, the review team may take any action they deem appropriate, including a permanent ban from the community.
+Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, the review team may take any
+action they deem appropriate, including a permanent ban from the community.
 
-_This code of conduct is based on the template established by the [TODO Group](http://todogroup.org/) and used by numerous other large communities (e.g., [Facebook](https://code.facebook.com/pages/876921332402685/open-source-code-of-conduct), Twitter, GitHub and the Scope section from the [Contributor Covenant version 1.4](http://contributor-covenant.org/version/1/4/)._
+_This code of conduct is based on the template established by the [TODO Group](http://todogroup.org/) and used by numerous other large communities (e.g.,
+[Facebook](https://code.facebook.com/pages/876921332402685/open-source-code-of-conduct), Twitter, Github and the Scope section from the [Contributor Covenant
+version 1.4](http://contributor-covenant.org/version/1/4/)._
